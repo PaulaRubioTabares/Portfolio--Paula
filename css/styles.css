@@ -87,7 +87,7 @@ main{
 
 
 /* Formato Main para pc*/
-@media screen and (min-width:630px){
+@media screen and (min-width:530px){
     .main{
     display: grid;
     gap: 0.5em;
@@ -99,6 +99,7 @@ main{
 
     .contenedor__perfil{
         padding: 1em;
+        width: 320px;
     }
 }
 
@@ -114,7 +115,7 @@ main{
 .contenedor__imagen-perfil{
     border-radius: var(--border-radius);
     overflow: hidden;
-    min-width: 150px;
+    width: 100%;
 }
 
 /* Info básica */
