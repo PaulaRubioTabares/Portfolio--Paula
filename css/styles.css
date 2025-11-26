@@ -55,7 +55,6 @@ img {
 
 
 /* Header */
-
 header {
     display: flex;
     align-items: center;
@@ -180,7 +179,6 @@ h2{
     line-height: 1.6;
     margin-top: 0;
 }
-
 /* Fin tarjeta perfil */
 
 
@@ -198,7 +196,6 @@ h2{
     }
 
 }
-
 
 .contenedor__practicas {
     padding: 15px;
